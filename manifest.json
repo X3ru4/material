@@ -1,0 +1,24 @@
+{
+  "format_version": 3,
+  "header": {
+    "name": " §lmaterial§r | v0.1 ",
+    "description": "§l§7by§r X3ru4",
+    "uuid": "bca0b457-c8e2-4316-a0ae-61d834b2295b",
+    "version": "0.1.0",
+    "min_engine_version": "1.21.130"
+  },
+  "modules": [
+    {
+      "description": "Material",
+      "type": "resources",
+      "uuid": "c0ed3e91-365d-4750-8a3d-87133c75f668",
+      "version": "0.1.0"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "X3ru4"
+    ],
+    "url": "https://github.com/X3ru4/material"
+  }
+}
